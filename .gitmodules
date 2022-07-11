@@ -1,0 +1,15 @@
+[submodule "02_ctci-array-left-rotation"]
+	path = 02_ctci-array-left-rotation
+	url = https://github.com/vajdaakos/02_ctci-array-left-rotation.git
+[submodule "03_new_year_chaos"]
+	path = 03_new_year_chaos
+	url = https://github.com/vajdaakos/03_new_year_chaos.git
+[submodule "04_Minimum-Swaps-2"]
+	path = 04_Minimum-Swaps-2
+	url = https://github.com/vajdaakos/04_Minimum-Swaps-2.git
+[submodule "05-Array_Manipulation"]
+	path = 05-Array_Manipulation
+	url = https://github.com/vajdaakos/05-Array_Manipulation.git
+[submodule "01_2d-array"]
+	path = 01_2d-array
+	url = https://github.com/vajdaakos/01_2d-array.git
